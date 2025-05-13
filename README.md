@@ -37,7 +37,7 @@ This project presents a visually engaging and interactive **Power BI dashboard**
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Power BI  
 - Dataset: Customer Shopping Behavior (internal source or simulated)  
