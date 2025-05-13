@@ -1,10 +1,10 @@
-# 🛍 Shopping Trends Power BI Dashboard
+#  Shopping Trends Power BI Dashboard
 
 This project presents a visually engaging and interactive **Power BI dashboard** built from a **customer shopping dataset**. It provides key insights into revenue, orders, customer behavior, product sales, and preferences by age, gender, shipping method, and more.
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 - **KPI Cards**:
   -  Total Revenue: $233K  
